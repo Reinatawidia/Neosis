@@ -11,14 +11,14 @@ export default function Home() {
       <header className="bg-blue-600 p-4 flex justify-between items-center text-white shadow-md">
         <div className="flex items-center gap-2">
           <Image className="text-white" src="/logo.svg" alt="EduCare Logo" width={40} height={40} />
-          <h1 className="text-2xl font-bold">EduCare</h1>
+          <h1 className="text-2xl font-bold">Neosis</h1>
         </div>
       </header>
 
       <main className="flex-grow">
         <section className="flex flex-col items-center justify-center py-20 bg-blue-500 text-white rounded-lg mx-4 mt-8 shadow-md">
           <h2 className="text-4xl font-extrabold mb-4">
-            Empower Your Learning with EduCare
+            Empower Your Learning with Neosis
           </h2>
           <p className="text-lg mb-6 text-center max-w-2xl">
             Join thousands of students and enhance your skills with AI-Based
@@ -32,7 +32,7 @@ export default function Home() {
 
         <section id="features" className="py-16 px-6">
           <h3 className="text-3xl font-bold text-center text-blue-600 mb-8">
-            Why Choose EduCare?
+            Why Choose Neosis?
           </h3>
           <div className="grid md:grid-cols-3 gap-8 max-w-5xl mx-auto">
             <div className="relative group">
@@ -92,7 +92,7 @@ export default function Home() {
 
       <footer className="bg-blue-600 text-white py-6 mt-auto">
         <div className="container mx-auto text-center">
-          <p>&copy; 2024 EduCare. All rights reserved.</p>
+          <p>&copy; 2025 Neosis. All rights reserved.</p>
         </div>
       </footer>
     </div>
